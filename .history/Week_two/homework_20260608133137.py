@@ -1,0 +1,42 @@
+#Create a list of fıve fruıts and prınt only the ones that are not apple.
+
+#list of fruits
+fruits = ["apple", "banana", "orange", "grape", "kiwi"]
+
+#looping through the list of fruits and printing only the ones that are not apple
+for fruit in fruits:
+    if fruit != "apple":
+        print(fruit)
+
+
+#assıgnment 2:Loop through a list of drinks and print I love this drink when the item is juice 
+
+#list of drinks
+drinks = ["water", "juice", "soda", "tea", "coffee"]
+
+#looping through the list of drinks and printing I love this drink when the item is juice
+for drink in drinks:
+    if drink == "juice":
+        print("I love this drink")
+
+#create a string with your favorite word and print each letter on a new line using a for loop and modify it to skip a letter and print the rest of the letters on a new line
+
+#string with favorite word
+favorite_word = "Python"
+for letter in favorite_word:
+    print(letter)
+
+#modifying the loop to skip a letter and print the rest of the letters on a new line
+for Letter in favorite_word:
+    if Letter == "o":
+        continue
+    print(Letter)
+
+#assignment 5: write a loop that prints numbers from 5 to 15
+
+for number in range(5,16):
+    print(number)
+
+#assignment 6: print only numbers divisible by 3 between 1 to 30
+
+#looping through the numbers from 1 to 3

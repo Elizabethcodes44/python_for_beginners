@@ -1,0 +1,1 @@
+#create a list of six random numbers 

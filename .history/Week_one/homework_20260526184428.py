@@ -1,0 +1,1 @@
+#fırst homweork .creating string 

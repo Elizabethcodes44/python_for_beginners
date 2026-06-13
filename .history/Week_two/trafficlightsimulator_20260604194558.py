@@ -1,0 +1,1 @@
+#traffic light simulator.create a variable ligthcolr 

@@ -1,0 +1,1 @@
+#traffic light simulator.create a variable ligthcolr and assign it a value of red, yellow or green. Use an if statement to print the appropriate message based on the value of lightcolor.

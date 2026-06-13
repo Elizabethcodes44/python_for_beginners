@@ -1,0 +1,1 @@
+#use variables and if statements to determine what type of weather it is and decide w. For example, if the weather is sunny, they should wear a t-shirt. If the weather is rainy, they should wear a raincoat. If the weather is snowy, they should wear a jacket.

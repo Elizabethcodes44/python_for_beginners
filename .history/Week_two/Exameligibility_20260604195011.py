@@ -1,0 +1,1 @@
+#A student can take an exam only if attendance is above 

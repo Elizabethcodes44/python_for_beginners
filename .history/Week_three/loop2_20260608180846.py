@@ -1,0 +1,1 @@
+#primitve command for and wh

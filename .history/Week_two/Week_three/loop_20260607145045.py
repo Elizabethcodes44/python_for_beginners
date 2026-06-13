@@ -1,0 +1,6 @@
+#for loop is a variable that takes on the value of each item in a sequence one at a time.
+#example of a for loop 
+y = [1, 2, 3, 4, 5]
+for i in y:
+    print()
+#nested loop
