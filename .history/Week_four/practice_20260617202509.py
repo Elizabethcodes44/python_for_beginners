@@ -1,0 +1,2 @@
+food = ["eba", "rice", "beans"]
+
